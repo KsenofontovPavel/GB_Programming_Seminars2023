@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kpo89\\Desktop\\GB2023\\Seminars\\Homework_seminar_1\\Homework_seminar_1.csproj",
-      "projectName": "Homework_seminar_1",
-      "projectPath": "C:\\Users\\kpo89\\Desktop\\GB2023\\Seminars\\Homework_seminar_1\\Homework_seminar_1.csproj",
+      "projectUniqueName": "C:\\Users\\kpo89\\Desktop\\GB2023\\Seminars\\Homework_seminar_1_TASK_2\\Homework_seminar_1_TASK_2.csproj",
+      "projectName": "Homework_seminar_1_TASK_2",
+      "projectPath": "C:\\Users\\kpo89\\Desktop\\GB2023\\Seminars\\Homework_seminar_1_TASK_2\\Homework_seminar_1_TASK_2.csproj",
       "packagesPath": "C:\\Users\\kpo89\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kpo89\\Desktop\\GB2023\\Seminars\\Homework_seminar_1\\obj\\",
+      "outputPath": "C:\\Users\\kpo89\\Desktop\\GB2023\\Seminars\\Homework_seminar_1_TASK_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kpo89\\AppData\\Roaming\\NuGet\\NuGet.Config"
