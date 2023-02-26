@@ -18,4 +18,5 @@ int max = numberA;
 if(numberA > max) max = numberA;
 if(numberB > max) max = numberB;
 if(numberC > max) max = numberC;
+
 Console.WriteLine($"Число {max} является максимальным");
