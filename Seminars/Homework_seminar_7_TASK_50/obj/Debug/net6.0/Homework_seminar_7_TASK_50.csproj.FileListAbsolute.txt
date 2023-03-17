@@ -1,0 +1,15 @@
+C:\Users\kpo89\Desktop\GB2023\Seminars\Homework_seminar_7_TASK_50\bin\Debug\net6.0\Homework_seminar_7_TASK_50.exe
+C:\Users\kpo89\Desktop\GB2023\Seminars\Homework_seminar_7_TASK_50\bin\Debug\net6.0\Homework_seminar_7_TASK_50.deps.json
+C:\Users\kpo89\Desktop\GB2023\Seminars\Homework_seminar_7_TASK_50\bin\Debug\net6.0\Homework_seminar_7_TASK_50.runtimeconfig.json
+C:\Users\kpo89\Desktop\GB2023\Seminars\Homework_seminar_7_TASK_50\bin\Debug\net6.0\Homework_seminar_7_TASK_50.dll
+C:\Users\kpo89\Desktop\GB2023\Seminars\Homework_seminar_7_TASK_50\bin\Debug\net6.0\Homework_seminar_7_TASK_50.pdb
+C:\Users\kpo89\Desktop\GB2023\Seminars\Homework_seminar_7_TASK_50\obj\Debug\net6.0\Homework_seminar_7_TASK_50.csproj.AssemblyReference.cache
+C:\Users\kpo89\Desktop\GB2023\Seminars\Homework_seminar_7_TASK_50\obj\Debug\net6.0\Homework_seminar_7_TASK_50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kpo89\Desktop\GB2023\Seminars\Homework_seminar_7_TASK_50\obj\Debug\net6.0\Homework_seminar_7_TASK_50.AssemblyInfoInputs.cache
+C:\Users\kpo89\Desktop\GB2023\Seminars\Homework_seminar_7_TASK_50\obj\Debug\net6.0\Homework_seminar_7_TASK_50.AssemblyInfo.cs
+C:\Users\kpo89\Desktop\GB2023\Seminars\Homework_seminar_7_TASK_50\obj\Debug\net6.0\Homework_seminar_7_TASK_50.csproj.CoreCompileInputs.cache
+C:\Users\kpo89\Desktop\GB2023\Seminars\Homework_seminar_7_TASK_50\obj\Debug\net6.0\Homework_seminar_7_TASK_50.dll
+C:\Users\kpo89\Desktop\GB2023\Seminars\Homework_seminar_7_TASK_50\obj\Debug\net6.0\refint\Homework_seminar_7_TASK_50.dll
+C:\Users\kpo89\Desktop\GB2023\Seminars\Homework_seminar_7_TASK_50\obj\Debug\net6.0\Homework_seminar_7_TASK_50.pdb
+C:\Users\kpo89\Desktop\GB2023\Seminars\Homework_seminar_7_TASK_50\obj\Debug\net6.0\Homework_seminar_7_TASK_50.genruntimeconfig.cache
+C:\Users\kpo89\Desktop\GB2023\Seminars\Homework_seminar_7_TASK_50\obj\Debug\net6.0\ref\Homework_seminar_7_TASK_50.dll
